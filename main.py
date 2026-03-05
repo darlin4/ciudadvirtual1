@@ -1,2 +1,2 @@
 print("kkkkk")
-print("SSSSS")
+print("SS")
